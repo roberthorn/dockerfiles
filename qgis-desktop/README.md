@@ -21,3 +21,4 @@ $ ./start.sh
 ## Resources
 
 [Docker for Mac and GUI applications](https://fredrikaverpil.github.io/2016/07/31/docker-for-mac-and-gui-applications/)
+[kartoza/docker-qgis-desktop GitHub](https://github.com/kartoza/docker-qgis-desktop)
